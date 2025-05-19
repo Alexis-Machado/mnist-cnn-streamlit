@@ -9,7 +9,7 @@
 <p align="center">
   🚀 Aplicación desplegada:  
   <a href="https://tu-usuario-tu-app.streamlit.app/" target="_blank">
-    https://tu-usuario-tu-app.streamlit.app/
+    https://mnist-cnn-app.streamlit.app
   </a>
 </p>
 
